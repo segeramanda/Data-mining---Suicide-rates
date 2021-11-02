@@ -1,0 +1,192 @@
+IndicatorCode,Indicator,ValueType,ParentLocationCode,ParentLocation,Location type,SpatialDimValueCode,Location,Period type,Period,IsLatestYear,Dim1 type,Dim1,Dim1ValueCode,Dim2 type,Dim2,Dim2ValueCode,Dim3 type,Dim3,Dim3ValueCode,DataSourceDimValueCode,DataSource,FactValueNumericPrefix,FactValueNumeric,FactValueUoM,FactValueNumericLowPrefix,FactValueNumericLow,FactValueNumericHighPrefix,FactValueNumericHigh,Value,FactValueTranslationID,FactComments,Language,DateModified
+UV_1,UV radiation,numeric,EUR,Europe,Country,NOR,Norway,Year,2004,true,,,,,,,,,,,,,1439,,,,,,"1,439",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,FIN,Finland,Year,2004,true,,,,,,,,,,,,,1494,,,,,,"1,494",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,IRL,Ireland,Year,2004,true,,,,,,,,,,,,,1509,,,,,,"1,509",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,GBR,United Kingdom of Great Britain and Northern Ireland,Year,2004,true,,,,,,,,,,,,,1576,,,,,,"1,576",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,SWE,Sweden,Year,2004,true,,,,,,,,,,,,,1587,,,,,,"1,587",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,BEL,Belgium,Year,2004,true,,,,,,,,,,,,,1645,,,,,,"1,645",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,NLD,Netherlands,Year,2004,true,,,,,,,,,,,,,1662,,,,,,"1,662",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,LVA,Latvia,Year,2004,true,,,,,,,,,,,,,1671,,,,,,"1,671",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,LUX,Luxembourg,Year,2004,true,,,,,,,,,,,,,1687,,,,,,"1,687",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,DNK,Denmark,Year,2004,true,,,,,,,,,,,,,1691,,,,,,"1,691",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,CZE,Czechia,Year,2004,true,,,,,,,,,,,,,1707,,,,,,"1,707",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,POL,Poland,Year,2004,true,,,,,,,,,,,,,1749,,,,,,"1,749",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,EST,Estonia,Year,2004,true,,,,,,,,,,,,,1781,,,,,,"1,781",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,BLR,Belarus,Year,2004,true,,,,,,,,,,,,,1795,,,,,,"1,795",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,RUS,Russian Federation,Year,2004,true,,,,,,,,,,,,,1795,,,,,,"1,795",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,SVK,Slovakia,Year,2004,true,,,,,,,,,,,,,1795,,,,,,"1,795",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,LTU,Lithuania,Year,2004,true,,,,,,,,,,,,,1801,,,,,,"1,801",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,DEU,Germany,Year,2004,true,,,,,,,,,,,,,1812,,,,,,"1,812",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,UKR,Ukraine,Year,2004,true,,,,,,,,,,,,,1843,,,,,,"1,843",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AMR,Americas,Country,CAN,Canada,Year,2004,true,,,,,,,,,,,,,1887,,,,,,"1,887",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,AUT,Austria,Year,2004,true,,,,,,,,,,,,,1888,,,,,,"1,888",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,FRA,France,Year,2004,true,,,,,,,,,,,,,1907,,,,,,"1,907",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,MCO,Monaco,Year,2004,true,,,,,,,,,,,,,1907,,,,,,"1,907",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,MDA,Republic of Moldova,Year,2004,true,,,,,,,,,,,,,1910,,,,,,"1,910",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,HUN,Hungary,Year,2004,true,,,,,,,,,,,,,1932,,,,,,"1,932",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,SMR,San Marino,Year,2004,true,,,,,,,,,,,,,1932,,,,,,"1,932",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,HRV,Croatia,Year,2004,true,,,,,,,,,,,,,1976,,,,,,"1,976",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,SEAR,South-East Asia,Country,MDV,Maldives,Year,2004,true,,,,,,,,,,,,,10224,,,,,,"10,224",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,ROU,Romania,Year,2004,true,,,,,,,,,,,,,2071,,,,,,"2,071",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,CHE,Switzerland,Year,2004,true,,,,,,,,,,,,,2158,,,,,,"2,158",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2004,true,,,,,,,,,,,,,2205,,,,,,"2,205",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,WPR,Western Pacific,Country,MNG,Mongolia,Year,2004,true,,,,,,,,,,,,,2226,,,,,,"2,226",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,SVN,Slovenia,Year,2004,true,,,,,,,,,,,,,2256,,,,,,"2,256",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,KAZ,Kazakhstan,Year,2004,true,,,,,,,,,,,,,2257,,,,,,"2,257",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,BGR,Bulgaria,Year,2004,true,,,,,,,,,,,,,2331,,,,,,"2,331",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,SEAR,South-East Asia,Country,PRK,Democratic People's Republic of Korea,Year,2004,true,,,,,,,,,,,,,2335,,,,,,"2,335",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,MKD,The former Yugoslav Republic of Macedonia,Year,2004,true,,,,,,,,,,,,,2403,,,,,,"2,403",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,ITA,Italy,Year,2004,true,,,,,,,,,,,,,2444,,,,,,"2,444",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,AND,Andorra,Year,2004,true,,,,,,,,,,,,,2469,,,,,,"2,469",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,WPR,Western Pacific,Country,NZL,New Zealand,Year,2004,true,,,,,,,,,,,,,2487,,,,,,"2,487",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,GEO,Georgia,Year,2004,true,,,,,,,,,,,,,2489,,,,,,"2,489",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,WPR,Western Pacific,Country,JPN,Japan,Year,2004,true,,,,,,,,,,,,,2521,,,,,,"2,521",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2004,true,,,,,,,,,,,,,2535,,,,,,"2,535",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,ALB,Albania,Year,2004,true,,,,,,,,,,,,,2542,,,,,,"2,542",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,PRT,Portugal,Year,2004,true,,,,,,,,,,,,,2585,,,,,,"2,585",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2004,true,,,,,,,,,,,,,2702,,,,,,"2,702",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,ESP,Spain,Year,2004,true,,,,,,,,,,,,,2705,,,,,,"2,705",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AMR,Americas,Country,USA,United States of America,Year,2004,true,,,,,,,,,,,,,2736,,,,,,"2,736",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,GRC,Greece,Year,2004,true,,,,,,,,,,,,,2753,,,,,,"2,753",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,ARM,Armenia,Year,2004,true,,,,,,,,,,,,,2899,,,,,,"2,899",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,WPR,Western Pacific,Country,CHN,China,Year,2004,true,,,,,,,,,,,,,2908,,,,,,"2,908",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,TUR,Turkey,Year,2004,true,,,,,,,,,,,,,2924,,,,,,"2,924",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2004,true,,,,,,,,,,,,,2953,,,,,,"2,953",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,WPR,Western Pacific,Country,NRU,Nauru,Year,2004,true,,,,,,,,,,,,,3022,,,,,,"3,022",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,MLT,Malta,Year,2004,true,,,,,,,,,,,,,3091,,,,,,"3,091",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2004,true,,,,,,,,,,,,,3094,,,,,,"3,094",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,TKM,Turkmenistan,Year,2004,true,,,,,,,,,,,,,3164,,,,,,"3,164",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2004,true,,,,,,,,,,,,,3172,,,,,,"3,172",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2004,true,,,,,,,,,,,,,3206,,,,,,"3,206",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AMR,Americas,Country,URY,Uruguay,Year,2004,true,,,,,,,,,,,,,3235,,,,,,"3,235",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,DZA,Algeria,Year,2004,true,,,,,,,,,,,,,3253,,,,,,"3,253",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2004,true,,,,,,,,,,,,,3262,,,,,,"3,262",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,CYP,Cyprus,Year,2004,true,,,,,,,,,,,,,3439,,,,,,"3,439",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AMR,Americas,Country,ARG,Argentina,Year,2004,true,,,,,,,,,,,,,3476,,,,,,"3,476",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EMR,Eastern Mediterranean,Country,SYR,Syrian Arab Republic,Year,2004,true,,,,,,,,,,,,,3501,,,,,,"3,501",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2004,true,,,,,,,,,,,,,3538,,,,,,"3,538",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2004,true,,,,,,,,,,,,,3568,,,,,,"3,568",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,ISR,Israel,Year,2004,true,,,,,,,,,,,,,3682,,,,,,"3,682",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2004,true,,,,,,,,,,,,,3825,,,,,,"3,825",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EMR,Eastern Mediterranean,Country,LBY,Libya,Year,2004,true,,,,,,,,,,,,,3861,,,,,,"3,861",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2004,true,,,,,,,,,,,,,3900,,,,,,"3,900",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,WPR,Western Pacific,Country,SGP,Singapore,Year,2004,true,,,,,,,,,,,,,3979,,,,,,"3,979",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AMR,Americas,Country,CHL,Chile,Year,2004,true,,,,,,,,,,,,,3982,,,,,,"3,982",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2004,true,,,,,,,,,,,,,4026,,,,,,"4,026",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2004,true,,,,,,,,,,,,,4029,,,,,,"4,029",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2004,true,,,,,,,,,,,,,4038,,,,,,"4,038",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AMR,Americas,Country,PRY,Paraguay,Year,2004,true,,,,,,,,,,,,,4038,,,,,,"4,038",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,WPR,Western Pacific,Country,SLB,Solomon Islands,Year,2004,true,,,,,,,,,,,,,4071,,,,,,"4,071",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,WPR,Western Pacific,Country,TON,Tonga,Year,2004,true,,,,,,,,,,,,,4087,,,,,,"4,087",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,ZAF,South Africa,Year,2004,true,,,,,,,,,,,,,4111,,,,,,"4,111",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AMR,Americas,Country,BHS,Bahamas,Year,2004,true,,,,,,,,,,,,,4119,,,,,,"4,119",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2004,true,,,,,,,,,,,,,4130,,,,,,"4,130",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2004,true,,,,,,,,,,,,,4132,,,,,,"4,132",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2004,true,,,,,,,,,,,,,4180,,,,,,"4,180",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2004,true,,,,,,,,,,,,,4202,,,,,,"4,202",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EMR,Eastern Mediterranean,Country,KWT,Kuwait,Year,2004,true,,,,,,,,,,,,,4214,,,,,,"4,214",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EMR,Eastern Mediterranean,Country,PAK,Pakistan,Year,2004,true,,,,,,,,,,,,,4227,,,,,,"4,227",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,WPR,Western Pacific,Country,VNM,Viet Nam,Year,2004,true,,,,,,,,,,,,,4293,,,,,,"4,293",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AMR,Americas,Country,CUB,Cuba,Year,2004,true,,,,,,,,,,,,,4401,,,,,,"4,401",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EMR,Eastern Mediterranean,Country,BHR,Bahrain,Year,2004,true,,,,,,,,,,,,,4419,,,,,,"4,419",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2004,true,,,,,,,,,,,,,4422,,,,,,"4,422",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2004,true,,,,,,,,,,,,,4431,,,,,,"4,431",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,LSO,Lesotho,Year,2004,true,,,,,,,,,,,,,4439,,,,,,"4,439",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,SEAR,South-East Asia,Country,IND,India,Year,2004,true,,,,,,,,,,,,,4514,,,,,,"4,514",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AMR,Americas,Country,BRA,Brazil,Year,2004,true,,,,,,,,,,,,,4552,,,,,,"4,552",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2004,true,,,,,,,,,,,,,4555,,,,,,"4,555",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2004,true,,,,,,,,,,,,,4565,,,,,,"4,565",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,WPR,Western Pacific,Country,FSM,Micronesia (Federated States of),Year,2004,true,,,,,,,,,,,,,4587,,,,,,"4,587",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2004,true,,,,,,,,,,,,,4635,,,,,,"4,635",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AMR,Americas,Country,BLZ,Belize,Year,2004,true,,,,,,,,,,,,,4639,,,,,,"4,639",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2004,true,,,,,,,,,,,,,4646,,,,,,"4,646",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,GAB,Gabon,Year,2004,true,,,,,,,,,,,,,4654,,,,,,"4,654",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,WPR,Western Pacific,Country,NIU,Niue,Year,2004,true,,,,,,,,,,,,,4687,,,,,,"4,687",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,WPR,Western Pacific,Country,COK,Cook Islands,Year,2004,true,,,,,,,,,,,,,4708,,,,,,"4,708",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,WPR,Western Pacific,Country,LAO,Lao People's Democratic Republic,Year,2004,true,,,,,,,,,,,,,4735,,,,,,"4,735",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2004,true,,,,,,,,,,,,,4771,,,,,,"4,771",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AMR,Americas,Country,SUR,Suriname,Year,2004,true,,,,,,,,,,,,,4799,,,,,,"4,799",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2004,true,,,,,,,,,,,,,4862,,,,,,"4,862",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2004,true,,,,,,,,,,,,,4862,,,,,,"4,862",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,BWA,Botswana,Year,2004,true,,,,,,,,,,,,,4868,,,,,,"4,868",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AMR,Americas,Country,GRD,Grenada,Year,2004,true,,,,,,,,,,,,,4875,,,,,,"4,875",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2004,true,,,,,,,,,,,,,4880,,,,,,"4,880",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2004,true,,,,,,,,,,,,,4884,,,,,,"4,884",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AMR,Americas,Country,PAN,Panama,Year,2004,true,,,,,,,,,,,,,4898,,,,,,"4,898",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2004,true,,,,,,,,,,,,,4905,,,,,,"4,905",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2004,true,,,,,,,,,,,,,4918,,,,,,"4,918",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AMR,Americas,Country,HND,Honduras,Year,2004,true,,,,,,,,,,,,,4924,,,,,,"4,924",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,LBR,Liberia,Year,2004,true,,,,,,,,,,,,,4926,,,,,,"4,926",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,WPR,Western Pacific,Country,PHL,Philippines,Year,2004,true,,,,,,,,,,,,,4928,,,,,,"4,928",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AMR,Americas,Country,ECU,Ecuador,Year,2004,true,,,,,,,,,,,,,4929,,,,,,"4,929",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2004,true,,,,,,,,,,,,,4931,,,,,,"4,931",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AMR,Americas,Country,JAM,Jamaica,Year,2004,true,,,,,,,,,,,,,4942,,,,,,"4,942",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,COG,Congo,Year,2004,true,,,,,,,,,,,,,4943,,,,,,"4,943",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,WPR,Western Pacific,Country,WSM,Samoa,Year,2004,true,,,,,,,,,,,,,4966,,,,,,"4,966",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AMR,Americas,Country,MEX,Mexico,Year,2004,true,,,,,,,,,,,,,4974,,,,,,"4,974",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AMR,Americas,Country,KNA,Saint Kitts and Nevis,Year,2004,true,,,,,,,,,,,,,5009,,,,,,"5,009",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AMR,Americas,Country,HTI,Haiti,Year,2004,true,,,,,,,,,,,,,5016,,,,,,"5,016",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,MWI,Malawi,Year,2004,true,,,,,,,,,,,,,5019,,,,,,"5,019",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,MUS,Mauritius,Year,2004,true,,,,,,,,,,,,,5055,,,,,,"5,055",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2004,true,,,,,,,,,,,,,5078,,,,,,"5,078",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2004,true,,,,,,,,,,,,,5087,,,,,,"5,087",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2004,true,,,,,,,,,,,,,5100,,,,,,"5,100",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2004,true,,,,,,,,,,,,,5102,,,,,,"5,102",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,BDI,Burundi,Year,2004,true,,,,,,,,,,,,,5111,,,,,,"5,111",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2004,true,,,,,,,,,,,,,5130,,,,,,"5,130",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AMR,Americas,Country,GTM,Guatemala,Year,2004,true,,,,,,,,,,,,,5141,,,,,,"5,141",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AMR,Americas,Country,ATG,Antigua and Barbuda,Year,2004,true,,,,,,,,,,,,,5148,,,,,,"5,148",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,WPR,Western Pacific,Country,BRN,Brunei Darussalam,Year,2004,true,,,,,,,,,,,,,5148,,,,,,"5,148",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2004,true,,,,,,,,,,,,,5152,,,,,,"5,152",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AMR,Americas,Country,LCA,Saint Lucia,Year,2004,true,,,,,,,,,,,,,5164,,,,,,"5,164",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,GHA,Ghana,Year,2004,true,,,,,,,,,,,,,5166,,,,,,"5,166",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,BEN,Benin,Year,2004,true,,,,,,,,,,,,,5168,,,,,,"5,168",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,WPR,Western Pacific,Country,PLW,Palau,Year,2004,true,,,,,,,,,,,,,5175,,,,,,"5,175",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2004,true,,,,,,,,,,,,,5185,,,,,,"5,185",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AMR,Americas,Country,GUY,Guyana,Year,2004,true,,,,,,,,,,,,,5203,,,,,,"5,203",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AMR,Americas,Country,VEN,Venezuela (Bolivarian Republic of),Year,2004,true,,,,,,,,,,,,,5211,,,,,,"5,211",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2004,true,,,,,,,,,,,,,5220,,,,,,"5,220",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2004,true,,,,,,,,,,,,,5225,,,,,,"5,225",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AMR,Americas,Country,TTO,Trinidad and Tobago,Year,2004,true,,,,,,,,,,,,,5245,,,,,,"5,245",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2004,true,,,,,,,,,,,,,5251,,,,,,"5,251",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2004,true,,,,,,,,,,,,,5264,,,,,,"5,264",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2004,true,,,,,,,,,,,,,5265,,,,,,"5,265",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,AGO,Angola,Year,2004,true,,,,,,,,,,,,,5287,,,,,,"5,287",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,NAM,Namibia,Year,2004,true,,,,,,,,,,,,,5305,,,,,,"5,305",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,TGO,Togo,Year,2004,true,,,,,,,,,,,,,5307,,,,,,"5,307",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2004,true,,,,,,,,,,,,,5319,,,,,,"5,319",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,WPR,Western Pacific,Country,MHL,Marshall Islands,Year,2004,true,,,,,,,,,,,,,5325,,,,,,"5,325",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AMR,Americas,Country,BOL,Bolivia (Plurinational State of),Year,2004,true,,,,,,,,,,,,,5344,,,,,,"5,344",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,SEN,Senegal,Year,2004,true,,,,,,,,,,,,,5356,,,,,,"5,356",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,GMB,Gambia,Year,2004,true,,,,,,,,,,,,,5358,,,,,,"5,358",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AMR,Americas,Country,VCT,Saint Vincent and the Grenadines,Year,2004,true,,,,,,,,,,,,,5358,,,,,,"5,358",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AMR,Americas,Country,SLV,El Salvador,Year,2004,true,,,,,,,,,,,,,5364,,,,,,"5,364",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,CPV,Cabo Verde,Year,2004,true,,,,,,,,,,,,,5372,,,,,,"5,372",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,WPR,Western Pacific,Country,PNG,Papua New Guinea,Year,2004,true,,,,,,,,,,,,,5377,,,,,,"5,377",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2004,true,,,,,,,,,,,,,5384,,,,,,"5,384",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AMR,Americas,Country,COL,Colombia,Year,2004,true,,,,,,,,,,,,,5385,,,,,,"5,385",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,GIN,Guinea,Year,2004,true,,,,,,,,,,,,,5391,,,,,,"5,391",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EMR,Eastern Mediterranean,Country,DJI,Djibouti,Year,2004,true,,,,,,,,,,,,,5461,,,,,,"5,461",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AMR,Americas,Country,DMA,Dominica,Year,2004,true,,,,,,,,,,,,,5464,,,,,,"5,464",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,WPR,Western Pacific,Country,TUV,Tuvalu,Year,2004,true,,,,,,,,,,,,,5465,,,,,,"5,465",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2004,true,,,,,,,,,,,,,5483,,,,,,"5,483",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2004,true,,,,,,,,,,,,,5498,,,,,,"5,498",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,UGA,Uganda,Year,2004,true,,,,,,,,,,,,,5499,,,,,,"5,499",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,COM,Comoros,Year,2004,true,,,,,,,,,,,,,5524,,,,,,"5,524",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,MRT,Mauritania,Year,2004,true,,,,,,,,,,,,,5547,,,,,,"5,547",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2004,true,,,,,,,,,,,,,5567,,,,,,"5,567",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,SYC,Seychelles,Year,2004,true,,,,,,,,,,,,,5570,,,,,,"5,570",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,MLI,Mali,Year,2004,true,,,,,,,,,,,,,5617,,,,,,"5,617",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2004,true,,,,,,,,,,,,,5637,,,,,,"5,637",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,TCD,Chad,Year,2004,true,,,,,,,,,,,,,5669,,,,,,"5,669",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EMR,Eastern Mediterranean,Country,SOM,Somalia,Year,2004,true,,,,,,,,,,,,,5773,,,,,,"5,773",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2004,true,,,,,,,,,,,,,5783,,,,,,"5,783",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AMR,Americas,Country,BRB,Barbados,Year,2004,true,,,,,,,,,,,,,5787,,,,,,"5,787",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,KEN,Kenya,Year,2004,true,,,,,,,,,,,,,5803,,,,,,"5,803",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,NER,Niger,Year,2004,true,,,,,,,,,,,,,5811,,,,,,"5,811",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AMR,Americas,Country,PER,Peru,Year,2004,true,,,,,,,,,,,,,5906,,,,,,"5,906",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,ERI,Eritrea,Year,2004,true,,,,,,,,,,,,,5914,,,,,,"5,914",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2004,true,,,,,,,,,,,,,5929,,,,,,"5,929",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2004,true,,,,,,,,,,,,,6089,,,,,,"6,089",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,WPR,Western Pacific,Country,KIR,Kiribati,Year,2004,true,,,,,,,,,,,,,6229,,,,,,"6,229",,,EN,2013-06-10T22:00:00.000Z
+UV_1,UV radiation,numeric,EUR,Europe,Country,ISL,Iceland,Year,2004,true,,,,,,,,,,,,,957,,,,,,957,,,EN,2013-06-10T22:00:00.000Z

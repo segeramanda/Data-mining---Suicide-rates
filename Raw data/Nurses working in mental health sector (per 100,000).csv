@@ -1,0 +1,128 @@
+IndicatorCode,Indicator,ValueType,ParentLocationCode,ParentLocation,Location type,SpatialDimValueCode,Location,Period type,Period,IsLatestYear,Dim1 type,Dim1,Dim1ValueCode,Dim2 type,Dim2,Dim2ValueCode,Dim3 type,Dim3,Dim3ValueCode,DataSourceDimValueCode,DataSource,FactValueNumericPrefix,FactValueNumeric,FactValueUoM,FactValueNumericLowPrefix,FactValueNumericLow,FactValueNumericHighPrefix,FactValueNumericHigh,Value,FactValueTranslationID,FactComments,Language,DateModified
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2017,true,,,,,,,,,,,,,0.022,,,,,,0.022,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,BDI,Burundi,Year,2017,true,,,,,,,,,,,,,0.049,,,,,,0.049,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,TUN,Tunisia,Year,2017,true,,,,,,,,,,,,,0.2,,,,,,0.2,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2017,true,,,,,,,,,,,,,0.33,,,,,,0.33,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,COM,Comoros,Year,2017,true,,,,,,,,,,,,,0.39,,,,,,0.39,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2017,true,,,,,,,,,,,,,1,,,,,,1,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2017,true,,,,,,,,,,,,,1.22,,,,,,1.22,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,SRB,Serbia,Year,2017,true,,,,,,,,,,,,,13.17,,,,,,13.17,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,BHR,Bahrain,Year,2017,true,,,,,,,,,,,,,27.92,,,,,,27.92,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2017,true,,,,,,,,,,,,,3.28,,,,,,3.28,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,MHL,Marshall Islands,Year,2017,true,,,,,,,,,,,,,3.77,,,,,,3.77,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,VCT,Saint Vincent and the Grenadines,Year,2017,true,,,,,,,,,,,,,4.57,,,,,,4.57,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2017,true,,,,,,,,,,,,,5.1,,,,,,5.1,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,FIN,Finland,Year,2017,true,,,,,,,,,,,,,51.97,,,,,,51.97,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,CAN,Canada,Year,2017,true,,,,,,,,,,,,,68.66,,,,,,68.66,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2017,true,,,,,,,,,,,,,9.1,,,,,,9.1,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2017,true,,,,,,,,,,,,,9.45,,,,,,9.45,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,FRA,France,Year,2017,true,,,,,,,,,,,,,98.02,,,,,,98.02,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,COL,Colombia,Year,2016,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,SSD,South Sudan,Year,2016,true,,,,,,,,,,,,,0.017,,,,,,0.017,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,TCD,Chad,Year,2016,true,,,,,,,,,,,,,0.021,,,,,,0.021,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,ECU,Ecuador,Year,2016,true,,,,,,,,,,,,,0.056,,,,,,0.056,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,MLI,Mali,Year,2016,true,,,,,,,,,,,,,0.092,,,,,,0.092,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,AFG,Afghanistan,Year,2016,true,,,,,,,,,,,,,0.098,,,,,,0.098,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,SEAR,South-East Asia,Country,BTN,Bhutan,Year,2016,true,,,,,,,,,,,,,0.13,,,,,,0.13,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,NER,Niger,Year,2016,true,,,,,,,,,,,,,0.13,,,,,,0.13,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,HTI,Haiti,Year,2016,true,,,,,,,,,,,,,0.23,,,,,,0.23,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,SEN,Senegal,Year,2016,true,,,,,,,,,,,,,0.27,,,,,,0.27,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,TGO,Togo,Year,2016,true,,,,,,,,,,,,,0.27,,,,,,0.27,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,KHM,Cambodia,Year,2016,true,,,,,,,,,,,,,0.28,,,,,,0.28,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,GMB,Gambia,Year,2016,true,,,,,,,,,,,,,0.3,,,,,,0.3,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,MDG,Madagascar,Year,2016,true,,,,,,,,,,,,,0.31,,,,,,0.31,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2016,true,,,,,,,,,,,,,0.32,,,,,,0.32,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2016,true,,,,,,,,,,,,,0.32,,,,,,0.32,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,CIV,Côte d’Ivoire,Year,2016,true,,,,,,,,,,,,,0.38,,,,,,0.38,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,COG,Congo,Year,2016,true,,,,,,,,,,,,,0.5,,,,,,0.5,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,GAB,Gabon,Year,2016,true,,,,,,,,,,,,,0.52,,,,,,0.52,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,SEAR,South-East Asia,Country,NPL,Nepal,Year,2016,true,,,,,,,,,,,,,0.56,,,,,,0.56,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2016,true,,,,,,,,,,,,,0.63,,,,,,0.63,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,AGO,Angola,Year,2016,true,,,,,,,,,,,,,0.66,,,,,,0.66,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2016,true,,,,,,,,,,,,,0.79,,,,,,0.79,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,SEAR,South-East Asia,Country,IND,India,Year,2016,true,,,,,,,,,,,,,0.8,,,,,,0.8,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,SEAR,South-East Asia,Country,BGD,Bangladesh,Year,2016,true,,,,,,,,,,,,,0.87,,,,,,0.87,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,NAM,Namibia,Year,2016,true,,,,,,,,,,,,,0.91,,,,,,0.91,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,GRD,Grenada,Year,2016,true,,,,,,,,,,,,,0.94,,,,,,0.94,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,GTM,Guatemala,Year,2016,true,,,,,,,,,,,,,1.07,,,,,,1.07,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,SYR,Syrian Arab Republic,Year,2016,true,,,,,,,,,,,,,1.07,,,,,,1.07,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2016,true,,,,,,,,,,,,,1.37,,,,,,1.37,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,RWA,Rwanda,Year,2016,true,,,,,,,,,,,,,1.38,,,,,,1.38,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,ZMB,Zambia,Year,2016,true,,,,,,,,,,,,,1.43,,,,,,1.43,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2016,true,,,,,,,,,,,,,1.46,,,,,,1.46,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,TJK,Tajikistan,Year,2016,true,,,,,,,,,,,,,1.5,,,,,,1.5,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,WSM,Samoa,Year,2016,true,,,,,,,,,,,,,1.55,,,,,,1.55,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,CHL,Chile,Year,2016,true,,,,,,,,,,,,,1.88,,,,,,1.88,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2016,true,,,,,,,,,,,,,10.66,,,,,,10.66,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,ARM,Armenia,Year,2016,true,,,,,,,,,,,,,11.24,,,,,,11.24,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,COK,Cook Islands,Year,2016,true,,,,,,,,,,,,,11.46,,,,,,11.46,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,GRC,Greece,Year,2016,true,,,,,,,,,,,,,12.75,,,,,,12.75,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2016,true,,,,,,,,,,,,,13.66,,,,,,13.66,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,BRN,Brunei Darussalam,Year,2016,true,,,,,,,,,,,,,15.09,,,,,,15.09,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,TUR,Turkey,Year,2016,true,,,,,,,,,,,,,150.3,,,,,,150.3,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,SUR,Suriname,Year,2016,true,,,,,,,,,,,,,16.63,,,,,,16.63,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,TON,Tonga,Year,2016,true,,,,,,,,,,,,,16.92,,,,,,16.92,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,BGR,Bulgaria,Year,2016,true,,,,,,,,,,,,,17.74,,,,,,17.74,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,MNE,Montenegro,Year,2016,true,,,,,,,,,,,,,18.31,,,,,,18.31,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,ROU,Romania,Year,2016,true,,,,,,,,,,,,,18.71,,,,,,18.71,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,ERI,Eritrea,Year,2016,true,,,,,,,,,,,,,2.17,,,,,,2.17,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,MEX,Mexico,Year,2016,true,,,,,,,,,,,,,2.24,,,,,,2.24,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,UGA,Uganda,Year,2016,true,,,,,,,,,,,,,2.24,,,,,,2.24,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2016,true,,,,,,,,,,,,,2.45,,,,,,2.45,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,SEAR,South-East Asia,Country,IDN,Indonesia,Year,2016,true,,,,,,,,,,,,,2.52,,,,,,2.52,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,EST,Estonia,Year,2016,true,,,,,,,,,,,,,23.48,,,,,,23.48,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2016,true,,,,,,,,,,,,,3.3,,,,,,3.3,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,BLZ,Belize,Year,2016,true,,,,,,,,,,,,,3.34,,,,,,3.34,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,PAN,Panama,Year,2016,true,,,,,,,,,,,,,3.45,,,,,,3.45,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2016,true,,,,,,,,,,,,,3.49,,,,,,3.49,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,POL,Poland,Year,2016,true,,,,,,,,,,,,,30.92,,,,,,30.92,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,HUN,Hungary,Year,2016,true,,,,,,,,,,,,,33.74,,,,,,33.74,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,BRA,Brazil,Year,2016,true,,,,,,,,,,,,,34.95,,,,,,34.95,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,SVN,Slovenia,Year,2016,true,,,,,,,,,,,,,36.73,,,,,,36.73,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,MNG,Mongolia,Year,2016,true,,,,,,,,,,,,,4.2,,,,,,4.2,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,USA,United States of America,Year,2016,true,,,,,,,,,,,,,4.28,,,,,,4.28,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2016,true,,,,,,,,,,,,,4.37,,,,,,4.37,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2016,true,,,,,,,,,,,,,4.54,,,,,,4.54,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2016,true,,,,,,,,,,,,,4.6,,,,,,4.6,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2016,true,,,,,,,,,,,,,4.8,,,,,,4.8,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,HRV,Croatia,Year,2016,true,,,,,,,,,,,,,41.86,,,,,,41.86,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,LTU,Lithuania,Year,2016,true,,,,,,,,,,,,,49.76,,,,,,49.76,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2016,true,,,,,,,,,,,,,5.7,,,,,,5.7,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,GEO,Georgia,Year,2016,true,,,,,,,,,,,,,5.92,,,,,,5.92,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,PER,Peru,Year,2016,true,,,,,,,,,,,,,5.99,,,,,,5.99,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,SWE,Sweden,Year,2016,true,,,,,,,,,,,,,50.57,,,,,,50.57,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,LCA,Saint Lucia,Year,2016,true,,,,,,,,,,,,,50.79,,,,,,50.79,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,LBR,Liberia,Year,2016,true,,,,,,,,,,,,,6.4,,,,,,6.4,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2016,true,,,,,,,,,,,,,6.72,,,,,,6.72,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,MYS,Malaysia,Year,2016,true,,,,,,,,,,,,,6.84,,,,,,6.84,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,ALB,Albania,Year,2016,true,,,,,,,,,,,,,6.88,,,,,,6.88,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,ATG,Antigua and Barbuda,Year,2016,true,,,,,,,,,,,,,7.01,,,,,,7.01,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,KGZ,Kyrgyzstan,Year,2016,true,,,,,,,,,,,,,7.37,,,,,,7.37,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2016,true,,,,,,,,,,,,,7.42,,,,,,7.42,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,GHA,Ghana,Year,2016,true,,,,,,,,,,,,,7.73,,,,,,7.73,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,NZL,New Zealand,Year,2016,true,,,,,,,,,,,,,75.13,,,,,,75.13,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,SYC,Seychelles,Year,2016,true,,,,,,,,,,,,,8.53,,,,,,8.53,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,NRU,Nauru,Year,2016,true,,,,,,,,,,,,,8.88,,,,,,8.88,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,CUB,Cuba,Year,2016,true,,,,,,,,,,,,,8.9,,,,,,8.9,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,MCO,Monaco,Year,2016,true,,,,,,,,,,,,,83.54,,,,,,83.54,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,JPN,Japan,Year,2016,true,,,,,,,,,,,,,83.81,,,,,,83.81,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,UZB,Uzbekistan,Year,2016,true,,,,,,,,,,,,,9.21,,,,,,9.21,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2016,true,,,,,,,,,,,,,9.93,,,,,,9.93,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2015,true,,,,,,,,,,,,,0.36,,,,,,0.36,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,JAM,Jamaica,Year,2015,true,,,,,,,,,,,,,10.27,,,,,,10.27,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,MDA,Republic of Moldova,Year,2015,true,,,,,,,,,,,,,14.83,,,,,,14.83,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,KIR,Kiribati,Year,2015,true,,,,,,,,,,,,,2.67,,,,,,2.67,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,ESP,Spain,Year,2015,true,,,,,,,,,,,,,2.87,,,,,,2.87,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2015,true,,,,,,,,,,,,,22.14,,,,,,22.14,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,LVA,Latvia,Year,2015,true,,,,,,,,,,,,,22.83,,,,,,22.83,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,ITA,Italy,Year,2015,true,,,,,,,,,,,,,23.49,,,,,,23.49,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,OMN,Oman,Year,2015,true,,,,,,,,,,,,,3,,,,,,3,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2015,true,,,,,,,,,,,,,3.14,,,,,,3.14,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,CZE,Czechia,Year,2015,true,,,,,,,,,,,,,30.35,,,,,,30.35,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,CYP,Cyprus,Year,2015,true,,,,,,,,,,,,,34.97,,,,,,34.97,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,CHN,China,Year,2015,true,,,,,,,,,,,,,5.42,,,,,,5.42,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,BRB,Barbados,Year,2015,true,,,,,,,,,,,,,63.33,,,,,,63.33,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,AUS,Australia,Year,2015,true,,,,,,,,,,,,,90.58,,,,,,90.58,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,CHE,Switzerland,Year,2015,true,,,,,,,,,,,,,92.66,,,,,,92.66,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,MRT,Mauritania,Year,2013,true,,,,,,,,,,,,,0.22,,,,,,0.22,,,EN,2019-04-24T22:00:00.000Z
+MH_7,"Nurses working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,BEL,Belgium,Year,2013,true,,,,,,,,,,,,,125.7,,,,,,125.7,,,EN,2019-04-24T22:00:00.000Z

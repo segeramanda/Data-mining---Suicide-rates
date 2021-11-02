@@ -1,0 +1,101 @@
+IndicatorCode,Indicator,ValueType,ParentLocationCode,ParentLocation,Location type,SpatialDimValueCode,Location,Period type,Period,IsLatestYear,Dim1 type,Dim1,Dim1ValueCode,Dim2 type,Dim2,Dim2ValueCode,Dim3 type,Dim3,Dim3ValueCode,DataSourceDimValueCode,DataSource,FactValueNumericPrefix,FactValueNumeric,FactValueUoM,FactValueNumericLowPrefix,FactValueNumericLow,FactValueNumericHighPrefix,FactValueNumericHigh,Value,FactValueTranslationID,FactComments,Language,DateModified
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2017,true,,,,,,,,,,,,,0.022,,,,,,0.022,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2017,true,,,,,,,,,,,,,0.028,,,,,,0.028,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,ETH,Ethiopia,Year,2017,true,,,,,,,,,,,,,0.04,,,,,,0.04,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,BDI,Burundi,Year,2017,true,,,,,,,,,,,,,0.069,,,,,,0.069,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2017,true,,,,,,,,,,,,,0.085,,,,,,0.085,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,IRQ,Iraq,Year,2017,true,,,,,,,,,,,,,0.089,,,,,,0.089,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2017,true,,,,,,,,,,,,,0.15,,,,,,0.15,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,SEAR,South-East Asia,Country,LKA,Sri Lanka,Year,2017,true,,,,,,,,,,,,,0.28,,,,,,0.28,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,SRB,Serbia,Year,2017,true,,,,,,,,,,,,,0.36,,,,,,0.36,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,SEAR,South-East Asia,Country,MDV,Maldives,Year,2017,true,,,,,,,,,,,,,0.48,,,,,,0.48,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,MKD,The former Yugoslav Republic of Macedonia,Year,2017,true,,,,,,,,,,,,,1.44,,,,,,1.44,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,BHR,Bahrain,Year,2017,true,,,,,,,,,,,,,1.46,,,,,,1.46,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,IRN,Iran (Islamic Republic of),Year,2017,true,,,,,,,,,,,,,1.51,,,,,,1.51,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,MUS,Mauritius,Year,2017,true,,,,,,,,,,,,,1.51,,,,,,1.51,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,VCT,Saint Vincent and the Grenadines,Year,2017,true,,,,,,,,,,,,,1.83,,,,,,1.83,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,CAN,Canada,Year,2017,true,,,,,,,,,,,,,145.4,,,,,,145.4,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,FIN,Finland,Year,2017,true,,,,,,,,,,,,,2.75,,,,,,2.75,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,NIC,Nicaragua,Year,2017,true,,,,,,,,,,,,,3.57,,,,,,3.57,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,GTM,Guatemala,Year,2016,true,,,,,,,,,,,,,0.006,,,,,,0.006,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,TCD,Chad,Year,2016,true,,,,,,,,,,,,,0.007,,,,,,0.007,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,GIN,Guinea,Year,2016,true,,,,,,,,,,,,,0.008,,,,,,0.008,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2016,true,,,,,,,,,,,,,0.011,,,,,,0.011,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,SEAR,South-East Asia,Country,MMR,Myanmar,Year,2016,true,,,,,,,,,,,,,0.013,,,,,,0.013,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2016,true,,,,,,,,,,,,,0.018,,,,,,0.018,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,ECU,Ecuador,Year,2016,true,,,,,,,,,,,,,0.019,,,,,,0.019,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,ZMB,Zambia,Year,2016,true,,,,,,,,,,,,,0.019,,,,,,0.019,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,COG,Congo,Year,2016,true,,,,,,,,,,,,,0.02,,,,,,0.02,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,AGO,Angola,Year,2016,true,,,,,,,,,,,,,0.022,,,,,,0.022,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,NER,Niger,Year,2016,true,,,,,,,,,,,,,0.028,,,,,,0.028,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,UGA,Uganda,Year,2016,true,,,,,,,,,,,,,0.037,,,,,,0.037,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,ERI,Eritrea,Year,2016,true,,,,,,,,,,,,,0.041,,,,,,0.041,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,MDG,Madagascar,Year,2016,true,,,,,,,,,,,,,0.05,,,,,,0.05,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,TGO,Togo,Year,2016,true,,,,,,,,,,,,,0.054,,,,,,0.054,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,YEM,Yemen,Year,2016,true,,,,,,,,,,,,,0.056,,,,,,0.056,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,SEAR,South-East Asia,Country,IND,India,Year,2016,true,,,,,,,,,,,,,0.065,,,,,,0.065,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,SEN,Senegal,Year,2016,true,,,,,,,,,,,,,0.067,,,,,,0.067,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,GAB,Gabon,Year,2016,true,,,,,,,,,,,,,0.1,,,,,,0.1,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,GMB,Gambia,Year,2016,true,,,,,,,,,,,,,0.1,,,,,,0.1,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,MNG,Mongolia,Year,2016,true,,,,,,,,,,,,,0.1,,,,,,0.1,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,AZE,Azerbaijan,Year,2016,true,,,,,,,,,,,,,0.11,,,,,,0.11,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,QAT,Qatar,Year,2016,true,,,,,,,,,,,,,0.11,,,,,,0.11,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2016,true,,,,,,,,,,,,,0.17,,,,,,0.17,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,RWA,Rwanda,Year,2016,true,,,,,,,,,,,,,0.17,,,,,,0.17,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,NAM,Namibia,Year,2016,true,,,,,,,,,,,,,0.21,,,,,,0.21,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,JOR,Jordan,Year,2016,true,,,,,,,,,,,,,0.22,,,,,,0.22,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,BRN,Brunei Darussalam,Year,2016,true,,,,,,,,,,,,,0.24,,,,,,0.24,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,ARM,Armenia,Year,2016,true,,,,,,,,,,,,,0.27,,,,,,0.27,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,DOM,Dominican Republic,Year,2016,true,,,,,,,,,,,,,0.29,,,,,,0.29,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,SLV,El Salvador,Year,2016,true,,,,,,,,,,,,,0.3,,,,,,0.3,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,SUR,Suriname,Year,2016,true,,,,,,,,,,,,,0.36,,,,,,0.36,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,ARE,United Arab Emirates,Year,2016,true,,,,,,,,,,,,,0.36,,,,,,0.36,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,HTI,Haiti,Year,2016,true,,,,,,,,,,,,,0.37,,,,,,0.37,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,VUT,Vanuatu,Year,2016,true,,,,,,,,,,,,,0.38,,,,,,0.38,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,EGY,Egypt,Year,2016,true,,,,,,,,,,,,,0.45,,,,,,0.45,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,ROU,Romania,Year,2016,true,,,,,,,,,,,,,0.5,,,,,,0.5,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,STP,Sao Tome and Principe,Year,2016,true,,,,,,,,,,,,,0.51,,,,,,0.51,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,EST,Estonia,Year,2016,true,,,,,,,,,,,,,0.53,,,,,,0.53,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,MEX,Mexico,Year,2016,true,,,,,,,,,,,,,0.53,,,,,,0.53,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,FJI,Fiji,Year,2016,true,,,,,,,,,,,,,0.56,,,,,,0.56,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,LCA,Saint Lucia,Year,2016,true,,,,,,,,,,,,,0.56,,,,,,0.56,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2016,true,,,,,,,,,,,,,0.63,,,,,,0.63,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,MAR,Morocco,Year,2016,true,,,,,,,,,,,,,0.65,,,,,,0.65,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,BGR,Bulgaria,Year,2016,true,,,,,,,,,,,,,0.78,,,,,,0.78,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,SYR,Syrian Arab Republic,Year,2016,true,,,,,,,,,,,,,0.8,,,,,,0.8,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,SEAR,South-East Asia,Country,THA,Thailand,Year,2016,true,,,,,,,,,,,,,0.84,,,,,,0.84,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,ALB,Albania,Year,2016,true,,,,,,,,,,,,,1.06,,,,,,1.06,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,MNE,Montenegro,Year,2016,true,,,,,,,,,,,,,1.11,,,,,,1.11,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,HRV,Croatia,Year,2016,true,,,,,,,,,,,,,1.3,,,,,,1.3,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,CUB,Cuba,Year,2016,true,,,,,,,,,,,,,1.33,,,,,,1.33,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,LBR,Liberia,Year,2016,true,,,,,,,,,,,,,1.4,,,,,,1.4,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,WSM,Samoa,Year,2016,true,,,,,,,,,,,,,1.55,,,,,,1.55,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,SEAR,South-East Asia,Country,TLS,Timor-Leste,Year,2016,true,,,,,,,,,,,,,1.61,,,,,,1.61,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,TUR,Turkey,Year,2016,true,,,,,,,,,,,,,1.64,,,,,,1.64,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,SVN,Slovenia,Year,2016,true,,,,,,,,,,,,,1.98,,,,,,1.98,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,MCO,Monaco,Year,2016,true,,,,,,,,,,,,,102.6,,,,,,102.6,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,COK,Cook Islands,Year,2016,true,,,,,,,,,,,,,17.19,,,,,,17.19,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,GRD,Grenada,Year,2016,true,,,,,,,,,,,,,2.81,,,,,,2.81,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,GRC,Greece,Year,2016,true,,,,,,,,,,,,,3.46,,,,,,3.46,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,SAU,Saudi Arabia,Year,2016,true,,,,,,,,,,,,,3.95,,,,,,3.95,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,ATG,Antigua and Barbuda,Year,2016,true,,,,,,,,,,,,,4,,,,,,4,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,BRA,Brazil,Year,2016,true,,,,,,,,,,,,,6.61,,,,,,6.61,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,USA,United States of America,Year,2016,true,,,,,,,,,,,,,60.34,,,,,,60.34,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,CRI,Costa Rica,Year,2016,true,,,,,,,,,,,,,76.96,,,,,,76.96,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,JPN,Japan,Year,2016,true,,,,,,,,,,,,,8.33,,,,,,8.33,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,KOR,Republic of Korea,Year,2016,true,,,,,,,,,,,,,8.4,,,,,,8.4,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,PAN,Panama,Year,2016,true,,,,,,,,,,,,,9.22,,,,,,9.22,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,CYP,Cyprus,Year,2015,true,,,,,,,,,,,,,0,,,,,,0,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2015,true,,,,,,,,,,,,,0.065,,,,,,0.065,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,ESP,Spain,Year,2015,true,,,,,,,,,,,,,0.11,,,,,,0.11,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,JAM,Jamaica,Year,2015,true,,,,,,,,,,,,,0.45,,,,,,0.45,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,MDA,Republic of Moldova,Year,2015,true,,,,,,,,,,,,,0.49,,,,,,0.49,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,SDN,Sudan,Year,2015,true,,,,,,,,,,,,,0.55,,,,,,0.55,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,BIH,Bosnia and Herzegovina,Year,2015,true,,,,,,,,,,,,,0.59,,,,,,0.59,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,WPR,Western Pacific,Country,KIR,Kiribati,Year,2015,true,,,,,,,,,,,,,0.89,,,,,,0.89,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,CZE,Czechia,Year,2015,true,,,,,,,,,,,,,1.21,,,,,,1.21,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EMR,Eastern Mediterranean,Country,LBN,Lebanon,Year,2015,true,,,,,,,,,,,,,1.33,,,,,,1.33,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,RUS,Russian Federation,Year,2015,true,,,,,,,,,,,,,2.4,,,,,,2.4,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,ITA,Italy,Year,2015,true,,,,,,,,,,,,,2.59,,,,,,2.59,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,AMR,Americas,Country,HND,Honduras,Year,2014,true,,,,,,,,,,,,,0.23,,,,,,0.23,,,EN,2019-04-24T22:00:00.000Z
+MH_8,"Social workers working in mental health sector (per 100,000)",numeric,EUR,Europe,Country,BEL,Belgium,Year,2013,true,,,,,,,,,,,,,17.43,,,,,,17.43,,,EN,2019-04-24T22:00:00.000Z
